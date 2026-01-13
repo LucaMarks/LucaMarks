@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello, I am a SWE student and I like to build cool stuff!
+
 <!--
 **LucaMarks/LucaMarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
