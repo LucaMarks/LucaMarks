@@ -12,7 +12,7 @@ How to reach me: lucamarks416@gmail.com
 Fun fact: ...
 -->
 
--> I’m currently working on: A stock market analyzer
+-> I’m currently working on: A text compressor
 
 -> I’m currently learning: C
 
